@@ -1,0 +1,21 @@
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\bin\Debug\TercihRobotu.exe.config
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\bin\Debug\TercihRobotu.exe
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\bin\Debug\TercihRobotu.pdb
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.Form1.resources
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.Properties.Resources.resources
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.exe
+C:\Users\Asus\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.pdb
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\bin\Debug\TercihRobotu.exe.config
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\bin\Debug\TercihRobotu.exe
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\bin\Debug\TercihRobotu.pdb
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.csproj.AssemblyReference.cache
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.Form1.resources
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.Properties.Resources.resources
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.csproj.GenerateResource.cache
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.csproj.CoreCompileInputs.cache
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.exe
+C:\Users\seyma.cecen\Desktop\2023-2024 BAHAR\Görsel Programlamaya Giriş\source\repos\TercihRobotu\TercihRobotu\obj\Debug\TercihRobotu.pdb

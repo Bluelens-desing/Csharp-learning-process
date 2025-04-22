@@ -1,0 +1,17 @@
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\bin\Debug\net8.0-windows\FormsApp5.exe
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\bin\Debug\net8.0-windows\FormsApp5.deps.json
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\bin\Debug\net8.0-windows\FormsApp5.runtimeconfig.json
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\bin\Debug\net8.0-windows\FormsApp5.dll
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\bin\Debug\net8.0-windows\FormsApp5.pdb
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.Form1.resources
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.dll
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\refint\FormsApp5.dll
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.pdb
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\FormsApp5.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\FormsApp5\FormsApp5\obj\Debug\net8.0-windows\ref\FormsApp5.dll

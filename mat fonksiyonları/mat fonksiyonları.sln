@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mat fonksiyonları", "mat fonksiyonları\mat fonksiyonları.csproj", "{ED315321-2C30-4D13-A8E2-9A694E21ADCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED315321-2C30-4D13-A8E2-9A694E21ADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED315321-2C30-4D13-A8E2-9A694E21ADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED315321-2C30-4D13-A8E2-9A694E21ADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED315321-2C30-4D13-A8E2-9A694E21ADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E2A409-6F82-479A-BA8B-5C06B3DE14A9}
+	EndGlobalSection
+EndGlobal

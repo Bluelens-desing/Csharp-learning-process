@@ -1,0 +1,16 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\bin\Debug\net8.0-windows\öğrenci sınav durum hesaplama.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\bin\Debug\net8.0-windows\öğrenci sınav durum hesaplama.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\bin\Debug\net8.0-windows\öğrenci sınav durum hesaplama.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\bin\Debug\net8.0-windows\öğrenci sınav durum hesaplama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\bin\Debug\net8.0-windows\öğrenci sınav durum hesaplama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci_sınav_durum_hesaplama.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\refint\öğrenci sınav durum hesaplama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\öğrenci sınav durum hesaplama.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\öğrenci sınav durum hesaplama\öğrenci sınav durum hesaplama\obj\Debug\net8.0-windows\ref\öğrenci sınav durum hesaplama.dll

@@ -1,0 +1,16 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\bin\Debug\net8.0-windows\tekrar.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\bin\Debug\net8.0-windows\tekrar.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\bin\Debug\net8.0-windows\tekrar.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\bin\Debug\net8.0-windows\tekrar.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\bin\Debug\net8.0-windows\tekrar.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\refint\tekrar.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\tekrar.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\tekrar\tekrar\obj\Debug\net8.0-windows\ref\tekrar.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Uçuş rezervasyon sitesi/1.0.0": {
+        "runtime": {
+          "Uçuş rezervasyon sitesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Uçuş rezervasyon sitesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

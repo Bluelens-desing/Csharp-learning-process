@@ -1,0 +1,37 @@
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csprojResolveAssemblyReference.cache
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe.config
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.exe
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\bin\Debug\WindowsFormsApplication14.pdb
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Form1.resources
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.exe
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication14-zaman2\WindowsFormsApplication14 zaman2\WindowsFormsApplication14\obj\Debug\WindowsFormsApplication14.pdb

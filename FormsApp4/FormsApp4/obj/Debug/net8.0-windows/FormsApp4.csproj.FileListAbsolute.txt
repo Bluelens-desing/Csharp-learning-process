@@ -1,0 +1,32 @@
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.exe
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.deps.json
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.runtimeconfig.json
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.dll
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.pdb
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.Form1.resources
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.dll
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\refint\FormsApp4.dll
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.pdb
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\ref\FormsApp4.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\bin\Debug\net8.0-windows\FormsApp4.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\refint\FormsApp4.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\FormsApp4.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\FormsApp4\FormsApp4\obj\Debug\net8.0-windows\ref\FormsApp4.dll

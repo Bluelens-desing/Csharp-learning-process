@@ -1,0 +1,16 @@
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\bin\Debug\net8.0-windows\Uçuş rezervasyon sitesi.exe
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\bin\Debug\net8.0-windows\Uçuş rezervasyon sitesi.deps.json
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\bin\Debug\net8.0-windows\Uçuş rezervasyon sitesi.runtimeconfig.json
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\bin\Debug\net8.0-windows\Uçuş rezervasyon sitesi.dll
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\bin\Debug\net8.0-windows\Uçuş rezervasyon sitesi.pdb
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş_rezervasyon_sitesi.Form1.resources
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.dll
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\refint\Uçuş rezervasyon sitesi.dll
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.pdb
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\Uçuş rezervasyon sitesi.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\Uçuş rezervasyon sitesi\Uçuş rezervasyon sitesi\obj\Debug\net8.0-windows\ref\Uçuş rezervasyon sitesi.dll

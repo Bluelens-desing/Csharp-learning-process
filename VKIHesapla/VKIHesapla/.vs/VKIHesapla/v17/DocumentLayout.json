@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mustafa\\Desktop\\VKIHesapla\\VKIHesapla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB014FC-AB1C-4195-A4A1-BDB8084EBC0D}|VKIHesapla\\VKIHesapla.csproj|c:\\users\\mustafa\\desktop\\vkihesapla\\vkihesapla\\vkihesapla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CB014FC-AB1C-4195-A4A1-BDB8084EBC0D}|VKIHesapla\\VKIHesapla.csproj|solutionrelative:vkihesapla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CB014FC-AB1C-4195-A4A1-BDB8084EBC0D}|VKIHesapla\\VKIHesapla.csproj|C:\\Users\\Mustafa\\Desktop\\VKIHesapla\\VKIHesapla\\vkihesapla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CB014FC-AB1C-4195-A4A1-BDB8084EBC0D}|VKIHesapla\\VKIHesapla.csproj|solutionrelative:vkihesapla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\Desktop\\VKIHesapla\\VKIHesapla\\VKIHesapla\\Form1.cs",
+              "RelativeDocumentMoniker": "VKIHesapla\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\Desktop\\VKIHesapla\\VKIHesapla\\VKIHesapla\\Form1.cs",
+              "RelativeToolTip": "VKIHesapla\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:11:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\Desktop\\VKIHesapla\\VKIHesapla\\VKIHesapla\\Form1.cs",
+              "RelativeDocumentMoniker": "VKIHesapla\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\Desktop\\VKIHesapla\\VKIHesapla\\VKIHesapla\\Form1.cs [Design]*",
+              "RelativeToolTip": "VKIHesapla\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T06:11:51.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

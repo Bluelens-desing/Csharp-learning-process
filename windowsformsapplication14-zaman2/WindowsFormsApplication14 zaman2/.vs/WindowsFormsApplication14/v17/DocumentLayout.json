@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mustafa\\Desktop\\Yeni klas\u00F6r\\Yeni klas\u00F6r (2)\\windowsformsapplication14-zaman2\\WindowsFormsApplication14 zaman2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5E10C-A97A-43DA-9EEF-81C9281E70BB}|WindowsFormsApplication14\\WindowsFormsApplication14.csproj|c:\\users\\mustafa\\desktop\\yeni klas\u00F6r\\yeni klas\u00F6r (2)\\windowsformsapplication14-zaman2\\windowsformsapplication14 zaman2\\windowsformsapplication14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E5E10C-A97A-43DA-9EEF-81C9281E70BB}|WindowsFormsApplication14\\WindowsFormsApplication14.csproj|solutionrelative:windowsformsapplication14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E5E10C-A97A-43DA-9EEF-81C9281E70BB}|WindowsFormsApplication14\\WindowsFormsApplication14.csproj|c:\\users\\mustafa\\desktop\\yeni klas\u00F6r\\yeni klas\u00F6r (2)\\windowsformsapplication14-zaman2\\windowsformsapplication14 zaman2\\windowsformsapplication14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1E5E10C-A97A-43DA-9EEF-81C9281E70BB}|WindowsFormsApplication14\\WindowsFormsApplication14.csproj|solutionrelative:windowsformsapplication14\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\Desktop\\Yeni klas\u00F6r\\Yeni klas\u00F6r (2)\\windowsformsapplication14-zaman2\\WindowsFormsApplication14 zaman2\\WindowsFormsApplication14\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication14\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\Desktop\\Yeni klas\u00F6r\\Yeni klas\u00F6r (2)\\windowsformsapplication14-zaman2\\WindowsFormsApplication14 zaman2\\WindowsFormsApplication14\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApplication14\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:55:16.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mustafa\\Desktop\\Yeni klas\u00F6r\\Yeni klas\u00F6r (2)\\windowsformsapplication14-zaman2\\WindowsFormsApplication14 zaman2\\WindowsFormsApplication14\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication14\\Form1.cs",
+              "ToolTip": "C:\\Users\\Mustafa\\Desktop\\Yeni klas\u00F6r\\Yeni klas\u00F6r (2)\\windowsformsapplication14-zaman2\\WindowsFormsApplication14 zaman2\\WindowsFormsApplication14\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication14\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T12:54:28.902Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

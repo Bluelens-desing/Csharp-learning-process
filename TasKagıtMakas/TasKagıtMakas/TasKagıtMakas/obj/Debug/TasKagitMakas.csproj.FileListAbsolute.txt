@@ -1,0 +1,30 @@
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe.config
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.pdb
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Form1.resources
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Properties.Resources.resources
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.exe
+C:\Users\seyma.cecen\source\repos\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.pdb
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe.config
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.pdb
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Form1.resources
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.exe
+C:\Users\Mustafa\Desktop\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe.config
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\bin\Debug\TasKagıtMakas.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.AssemblyReference.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.Properties.Resources.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagitMakas.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\hocanın uygulamaları\TasKagıtMakas\TasKagıtMakas\TasKagıtMakas\obj\Debug\TasKagıtMakas.pdb

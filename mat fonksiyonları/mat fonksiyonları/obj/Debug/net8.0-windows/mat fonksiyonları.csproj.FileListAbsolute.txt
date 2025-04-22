@@ -1,0 +1,16 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\bin\Debug\net8.0-windows\mat fonksiyonları.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\bin\Debug\net8.0-windows\mat fonksiyonları.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\bin\Debug\net8.0-windows\mat fonksiyonları.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\bin\Debug\net8.0-windows\mat fonksiyonları.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\bin\Debug\net8.0-windows\mat fonksiyonları.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat_fonksiyonları.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\refint\mat fonksiyonları.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\mat fonksiyonları.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\mat fonksiyonları\mat fonksiyonları\obj\Debug\net8.0-windows\ref\mat fonksiyonları.dll

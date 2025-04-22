@@ -1,0 +1,32 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son_ders_uygulama.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\refint\son ders uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\ref\son ders uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\bin\Debug\net8.0-windows\son ders uygulama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son_ders_uygulama.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\refint\son ders uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\son ders uygulama.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\son ders uygulama\son ders uygulama\obj\Debug\net8.0-windows\ref\son ders uygulama.dll

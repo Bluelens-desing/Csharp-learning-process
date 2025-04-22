@@ -1,0 +1,32 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap_makinesi.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\refint\hesap makinesi.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\ref\hesap makinesi.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\bin\Debug\net8.0-windows\hesap makinesi.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap_makinesi.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\refint\hesap makinesi.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\hesap makinesi.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\hesap makinesi\hesap makinesi\obj\Debug\net8.0-windows\ref\hesap makinesi.dll

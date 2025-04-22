@@ -1,0 +1,31 @@
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.exe.config
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.exe
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.pdb
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.Form1.resources
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.Properties.Resources.resources
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.exe
+C:\Users\Asus\source\repos\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.pdb
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.exe.config
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.exe
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.pdb
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.AssemblyReference.cache
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.Form1.resources
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.Properties.Resources.resources
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.GenerateResource.cache
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.CoreCompileInputs.cache
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.exe
+C:\Users\seyma.cecen\Desktop\2023-2024 GÜZ\Nesne\lab uygulama\Nesne Proje\Nesne Proje\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.pdb
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.exe.config
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.exe
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\bin\Debug\Trafik_Lambasi.pdb
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.Form1.resources
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.exe
+C:\Users\Mustafa\Desktop\Trafik_Lambasi\Trafik_Lambasi\Trafik_Lambasi\obj\Debug\Trafik_Lambasi.pdb

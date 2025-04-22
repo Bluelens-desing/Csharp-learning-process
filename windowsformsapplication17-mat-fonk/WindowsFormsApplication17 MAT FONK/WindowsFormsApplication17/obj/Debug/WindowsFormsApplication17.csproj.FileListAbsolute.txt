@@ -1,0 +1,37 @@
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csprojResolveAssemblyReference.cache
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csprojResolveAssemblyReference.cache
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+D:\Akademik\Verilen Dersler\Görsel Prog I\Projects\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.Cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe.config
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.exe
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\bin\Debug\WindowsFormsApplication17.pdb
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Form1.resources
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.Properties.Resources.resources
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.exe
+C:\Users\Mustafa\Desktop\Yeni klasör\Yeni klasör (2)\windowsformsapplication17-mat-fonk\WindowsFormsApplication17 MAT FONK\WindowsFormsApplication17\obj\Debug\WindowsFormsApplication17.pdb

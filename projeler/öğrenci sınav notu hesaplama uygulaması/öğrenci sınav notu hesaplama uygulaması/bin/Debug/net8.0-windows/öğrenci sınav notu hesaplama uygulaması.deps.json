@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "öğrenci sınav notu hesaplama uygulaması/1.0.0": {
+        "runtime": {
+          "öğrenci sınav notu hesaplama uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "öğrenci sınav notu hesaplama uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\bin\Debug\net8.0-windows\metotlar.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\bin\Debug\net8.0-windows\metotlar.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\bin\Debug\net8.0-windows\metotlar.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\bin\Debug\net8.0-windows\metotlar.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\bin\Debug\net8.0-windows\metotlar.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\refint\metotlar.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\metotlar.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\metotlar\metotlar\obj\Debug\net8.0-windows\ref\metotlar.dll

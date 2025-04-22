@@ -1,0 +1,10 @@
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\bin\Debug\MatFunctions.exe.config
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\bin\Debug\MatFunctions.exe
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\bin\Debug\MatFunctions.pdb
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\obj\Debug\MatFunctions.csproj.AssemblyReference.cache
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\obj\Debug\MatFunctions.Form1.resources
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\obj\Debug\MatFunctions.Properties.Resources.resources
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\obj\Debug\MatFunctions.csproj.GenerateResource.cache
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\obj\Debug\MatFunctions.csproj.CoreCompileInputs.cache
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\obj\Debug\MatFunctions.exe
+C:\Users\seyma.cecen\source\repos\MatFunctions\MatFunctions\obj\Debug\MatFunctions.pdb

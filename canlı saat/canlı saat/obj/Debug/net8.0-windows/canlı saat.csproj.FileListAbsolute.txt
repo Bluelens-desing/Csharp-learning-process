@@ -1,0 +1,32 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı_saat.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\refint\canlı saat.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\canlı saat\canlı saat\obj\Debug\net8.0-windows\ref\canlı saat.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\bin\Debug\net8.0-windows\canlı saat.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı_saat.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\refint\canlı saat.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\canlı saat.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\canlı saat\canlı saat\obj\Debug\net8.0-windows\ref\canlı saat.dll

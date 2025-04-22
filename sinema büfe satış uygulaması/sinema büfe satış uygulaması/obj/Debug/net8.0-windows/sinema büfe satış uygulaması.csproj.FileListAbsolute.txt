@@ -1,0 +1,34 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema_büfe_satış_uygulaması.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema_büfe_satış_uygulaması.Properties.Resources.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\refint\sinema büfe satış uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\ref\sinema büfe satış uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\bin\Debug\net8.0-windows\sinema büfe satış uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema_büfe_satış_uygulaması.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema_büfe_satış_uygulaması.Properties.Resources.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\refint\sinema büfe satış uygulaması.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\sinema büfe satış uygulaması.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar(2024)\sinema büfe satış uygulaması\sinema büfe satış uygulaması\obj\Debug\net8.0-windows\ref\sinema büfe satış uygulaması.dll

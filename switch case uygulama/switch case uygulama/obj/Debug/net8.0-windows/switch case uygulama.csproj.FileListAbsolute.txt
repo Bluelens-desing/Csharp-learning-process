@@ -1,0 +1,16 @@
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\bin\Debug\net8.0-windows\switch case uygulama.exe
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\bin\Debug\net8.0-windows\switch case uygulama.deps.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\bin\Debug\net8.0-windows\switch case uygulama.runtimeconfig.json
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\bin\Debug\net8.0-windows\switch case uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\bin\Debug\net8.0-windows\switch case uygulama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch_case_uygulama.Form1.resources
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.csproj.GenerateResource.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.AssemblyInfoInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.AssemblyInfo.cs
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.csproj.CoreCompileInputs.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\refint\switch case uygulama.dll
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.pdb
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\switch case uygulama.genruntimeconfig.cache
+D:\Ders\2.Dönem\Görsel Programlamaya Giriş\uygulamalar\switch case uygulama\switch case uygulama\obj\Debug\net8.0-windows\ref\switch case uygulama.dll

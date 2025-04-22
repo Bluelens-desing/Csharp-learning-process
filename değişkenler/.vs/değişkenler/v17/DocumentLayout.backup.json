@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ders\\2.D\u00F6nem\\G\u00F6rsel Programlamaya Giri\u015F\\uygulamalar(2024)\\de\u011Fi\u015Fkenler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F47938A8-5BFF-4F77-819A-E28D1031E8F4}|de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler.csproj|d:\\ders\\2.d\u00F6nem\\g\u00F6rsel programlamaya giri\u015F\\uygulamalar(2024)\\de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47938A8-5BFF-4F77-819A-E28D1031E8F4}|de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler.csproj|solutionrelative:de\u011Fi\u015Fkenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47938A8-5BFF-4F77-819A-E28D1031E8F4}|de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler.csproj|d:\\ders\\2.d\u00F6nem\\g\u00F6rsel programlamaya giri\u015F\\uygulamalar(2024)\\de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F47938A8-5BFF-4F77-819A-E28D1031E8F4}|de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler.csproj|solutionrelative:de\u011Fi\u015Fkenler\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Ders\\2.D\u00F6nem\\G\u00F6rsel Programlamaya Giri\u015F\\uygulamalar(2024)\\de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler\\Form1.cs",
+              "RelativeDocumentMoniker": "de\u011Fi\u015Fkenler\\Form1.cs",
+              "ToolTip": "D:\\Ders\\2.D\u00F6nem\\G\u00F6rsel Programlamaya Giri\u015F\\uygulamalar(2024)\\de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler\\Form1.cs",
+              "RelativeToolTip": "de\u011Fi\u015Fkenler\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwDsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:20:53.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Ders\\2.D\u00F6nem\\G\u00F6rsel Programlamaya Giri\u015F\\uygulamalar(2024)\\de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler\\Form1.cs",
+              "RelativeDocumentMoniker": "de\u011Fi\u015Fkenler\\Form1.cs",
+              "ToolTip": "D:\\Ders\\2.D\u00F6nem\\G\u00F6rsel Programlamaya Giri\u015F\\uygulamalar(2024)\\de\u011Fi\u015Fkenler\\de\u011Fi\u015Fkenler\\Form1.cs [Design]",
+              "RelativeToolTip": "de\u011Fi\u015Fkenler\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:19:18.131Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
